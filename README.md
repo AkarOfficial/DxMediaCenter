@@ -16,6 +16,7 @@ DxMediaCenter ist ein eleganter, ressourcenschonender und lokaler Medien-Hub im 
 - **Vollständige Datensouveränität:** Alle Daten, Pfade und Verläufe werden ausschließlich lokal in einer `state.json` innerhalb des Benutzer-Anwendungsordners (`AppData`) gesichert. Keine Cloud-Anbindung, kein Tracking.
 
 ---
+WICHTIG, der Offizielle VLC Mediaplayer muss auf dem Pc Installiert sein.
 
 ## 🛠️ Tech-Stack
 
