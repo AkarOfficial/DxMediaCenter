@@ -1,3 +1,5 @@
+![DxMediaCenter](https://i.ibb.co/5gTSN7tk/Dx.png)
+
 # DxMediaCenter
 
 DxMediaCenter ist ein eleganter, ressourcenschonender und lokaler Medien-Hub im modernen **Premium Dark Style**. Die Anwendung scannt Verzeichnisse vollautomatisch nach Filmen sowie Serienfolgen, strukturiert diese übersichtlich in Sektionen und bietet einen integrierten, voll funktionsfähigen Mediaplayer auf VLC-Basis. 
